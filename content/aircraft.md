@@ -13,7 +13,7 @@ metaDescription: "Aircraft list for Airforce Delta."
 ## Flight Model Remark
 - This game has more dynamic flight model compared to Ace Combat, stall speed varies between altitude and turn rate is much more sensitive to current airspeed.
 - Wing shape does affect flight performance at low speed and stall speed. For example delta wing aircraft has poor maneuverability at low speed and high stall speed and swing wing, forwards wept wing aircraft has better maneuverability at low speed.
-- VTOL aircraft unable to perform perfect hover, their absolute minimum speed before stalling is at around 30 knots.
+- VTOL aircraft unable to perform perfect hover, but they posses the lowest absolute minimum speed before stalling of all playable aircraft which is at around 30 knots.
 
 ## Enemy Aircraft Remark
 - Enemy aircraft gradually have increased durability as the player progresses through the campaign, regardless of type. Expect facing low end aircraft that could withstand more than two missiles after the first few missions.
