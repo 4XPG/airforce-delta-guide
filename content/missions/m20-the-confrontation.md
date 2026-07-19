@@ -58,4 +58,4 @@ Go and finish our war.
 # Mission Guide
 The final battle pits the player in an one-on-one duel against Zan Daas in MiG-1.44 MFI. His plane is much more tougher than any other fighters (including Aces) encountered before, but since his AI aggression isn't any different to regular enemies he shouldn't pose too much threat against endgame aircraft.
 
-By finishing off Zan Daas' MiG-1.44 with guns, the MiG-1.44 MFI is unlocked for purchase on Easy or lower difficulty.
+By finishing off Zan Daas' MiG-1.44 with guns, the MiG-1.44 MFI is unlocked for purchase at New Game+ on Easy or lower difficulty.

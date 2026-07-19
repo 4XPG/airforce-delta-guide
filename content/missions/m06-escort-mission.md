@@ -73,4 +73,5 @@ The player has 2 minutes time window before escort target takes off. Tanks and g
 There are some warships near the vicinity of the airliner's flight path but the airliner doesn't get into the ships' missile range, so they can be safely ignored.
 
 <b>IMPORTANT NOTE</b>
+
 - Enemy F-20s and F-14Ds do not attempt to evade when the player attacks them which should give the player enough time window to shoot them down before they can destroy the airliner.

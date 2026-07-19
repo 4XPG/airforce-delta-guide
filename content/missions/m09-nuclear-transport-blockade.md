@@ -67,4 +67,5 @@ This mission has much stricter time limit than the displayed time limit suggests
 Both routes travel accross a long tunnel each, which makes intercepting the trains difficult once they enter the tunnel, as such it's recommended to destroy the train before the train enters the tunnel. Unlike ships, destroying the train engine does not result in chain reaction that destroys the rest of its component.
 
 <b>IMPORTANT NOTE</b>
+
 - Unlike the transport trains, the DORA railway artilleries do not attempt to leave the map. Which allows the player to save them for the last when attempting to clear the map of all enemies.

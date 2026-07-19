@@ -68,4 +68,6 @@ The only mission in the game where neutral targets are present, in which each de
 
 The C-5s near the starting point drops few airborne tanks designated as primary targets.
 
--<b>IMPORTANT NOTE</b>: The C-5s themselves are armed with rear fire missile for some reason and will shoot back if the player lingers around on their six o' clock.
+<b>IMPORTANT NOTE</b>
+
+- The C-5s themselves are armed with rear fire missile for some reason and will shoot back if the player lingers around on their six o' clock.

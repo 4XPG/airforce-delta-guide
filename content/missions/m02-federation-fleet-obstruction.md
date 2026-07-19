@@ -68,5 +68,6 @@ The first anti-ship mission in the game which also represents major difficulty s
 
 When coming unprepared for dogfight, one can easily ignore all enemy fighters and rush in towards the target ships with either newly unlocked aircraft from the previous mission (MiG-21 and Kfir) as their high speed proven advantageous at outrunning enemy jets here.
 
-<b>IMPORTANT NOTE</b>: 
+<b>IMPORTANT NOTE</b>
+
 - While each individual ship turret can be destroyed for extra cash, it's not worth the effort and missile as they give minusicle reward and each takes at least two missile to destroy.

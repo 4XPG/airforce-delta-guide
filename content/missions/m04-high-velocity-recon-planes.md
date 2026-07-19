@@ -64,4 +64,5 @@ As if completing the mission name and <a href="m3-military-supply-base.md">previ
 Enemy fighters mostly serve as nothing but distraction but it's still technically doable to shoot them all down before any of the Blackbird finishes their refueling. When approaching them fast enough, it's even possible to shoot them down before they can react.
 
 <b>IMPORTANT NOTE</b>
+
 - The Blackbird only slows down when they're refueling. Shooting down the tanker they're connected with will immediately make them resume their high speed flight route towards the map boundary.

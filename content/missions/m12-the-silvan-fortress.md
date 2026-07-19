@@ -67,6 +67,6 @@ Fly in towards the point of two rivers' convergence.
 - [EF2000 Typhoon](/aircraft/25_ef2000)
 
 # Mission Guide
-The primary target in this mission are two fictional, gigantic bombers and the defenses around the fortress itself. One of the bomber is already airborne and will circle around the fortress area, while the second bomber is parked inside the fortress. There are various enemies around the river on the way to the fortress as well.
+The primary target in this mission are two fictional, gigantic bombers and the defenses around the fortress itself. One of the bomber is already airborne and will circle around the fortress area, while the second bomber is parked inside the fortress. There are assortment of AA guns and gunboats around the river on the way to the fortress as well.
 
 The bomber themselves pose no significant threat as they're only armed with machine gun turrets, and the parked one doesn't fire at the player. The real threat in this mission however, is the four YF-23s guarding the fortress which can easily overwhelm the player.
